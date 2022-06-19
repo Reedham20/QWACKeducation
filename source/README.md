@@ -8,7 +8,7 @@ In this section we have submitted the following:
 
 ## Presentation 
 For best experience, please view our presentation from the provided link - 
-* [Canva presentation](https://www.canva.com/design/DAFA9l5NFSs/XQF5oSgXqkvO4AYsYY1CwA/view?utm_content=DAFA9l5NFSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Presentation](https://www.canva.com/design/DAFA9l5NFSs/XQF5oSgXqkvO4AYsYY1CwA/view?utm_content=DAFA9l5NFSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Alternatively, you can download the attached presentation or pdf or video.
 
 ## Links
