@@ -29,3 +29,4 @@ We would like to thank Microsoft for Hosting this hackathon, and TechGig for pro
 We would also like to thank our friends and family who supported us in the making of this project.
 We would also like to thank Sahil Gulati sir from techGig for his constant support and inspiration throughout this competition.
 
+## All the files are uploaded on this google drive folder as some files were larger than 50 mb
